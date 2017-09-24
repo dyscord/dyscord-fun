@@ -1,1 +1,1 @@
-from .plugin import DyscordMod
+from .plugin import DyscordMod as Plugin
